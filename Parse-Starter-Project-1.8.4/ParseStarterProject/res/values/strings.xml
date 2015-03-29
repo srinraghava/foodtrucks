@@ -11,5 +11,6 @@
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_register">RegisterActivity</string>
     <string name="facebook_app_id">904252309595407</string>
+    <string name="title_activity_swipe_pictures">SwipePictures</string>
 
 </resources>
