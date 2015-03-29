@@ -1,2 +1,2 @@
 # foodtrucks
-University of Pennsylvania CIS 350 Project
+University of Pennsylvania CIS 350 Project 
